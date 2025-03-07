@@ -5,6 +5,7 @@ deepseek+OmniParserV2 尝试自动执行任务
 ## 环境：
 
 Windows11
+
 CUDA11.8
 
 ## 文件内容说明
