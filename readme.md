@@ -2,7 +2,7 @@ deepseek+OmniParserV2 尝试自动执行任务
 
 闲时写的小玩意（屎山预警），目前看来效果很差
 
-## 环境：
+## 环境
 
 Windows11
 
