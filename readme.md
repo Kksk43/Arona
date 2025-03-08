@@ -1,6 +1,6 @@
 deepseek+OmniParserV2 尝试自动执行任务
 
-闲时写的小玩意（屎山预警），目前看来效果很差
+闲时写的小玩意，没什么技术含量，目前看来效果很差
 
 ## 环境
 
@@ -19,6 +19,11 @@ CUDA11.8
 * `main.py`：主入口
 * `environment.yaml`：conda环境
 * `template_load.py`：载入模版图像
+
+## 聊天记录
+
+[第一次聊天](https://www.wenxiaobai.com/share/chat/508966ae-f083-474d-9804-00ab6b4204d5)
+[第二次聊天](https://www.wenxiaobai.com/share/chat/0ca0f5d5-7244-4ab7-a3b4-0d5574056422)
 
 ## 显存占用
 
