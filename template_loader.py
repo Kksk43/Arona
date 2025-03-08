@@ -2,7 +2,7 @@
 import numpy as np
 from PIL import Image
 
-SCREEN_SIZE_TYPE = "1k"  # "1k" "2k" 屏幕尺寸
+SCREEN_SIZE_TYPE = "2k"  # "1k" "2k" 屏幕尺寸
 
 sendIcon = np.array(Image.open(f"icons{SCREEN_SIZE_TYPE}/2.png"))
 thinkedIcon = np.array(Image.open(f"icons{SCREEN_SIZE_TYPE}/3.png"))
