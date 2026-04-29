@@ -1,6 +1,7 @@
-deepseek+OmniParserV2 尝试自动执行任务
+deepseek+OmniParserV2 通过视觉+LLM方案，操作Windows键鼠自动执行任务
 
-闲时写的小玩意，没什么技术含量，目前看来效果很差
+> B站视频介绍
+> 【DS+OmniParserV2，自动完成动态点赞任务】 https://www.bilibili.com/video/BV1xf9bYeEqt
 
 ## 环境
 
